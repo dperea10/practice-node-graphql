@@ -5,7 +5,7 @@ import Head from 'next/head'
 import Navbar from '@components/Navbar/Navbar'
 import Footer from '@components/Footer/Footer'
 
-const siteTitle = 'Platzi GraphQL'
+const siteTitle = 'diego GraphQL'
 
 type LayoutProps = {
   children?: React.ReactNode

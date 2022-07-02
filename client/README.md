@@ -1,13 +1,13 @@
 <p align="center">
-  <a href="https://platzi.com/cursos/nextjs-graphql/" target="_blank">
-    <img alt="Curso de Next.js con GraphQL" src="https://static.platzi.com/media/achievements/piezas-nextjs-graphql_badge-cbeed361-b95b-439e-a48b-ce024f85384e.png" width="60" />
+  <a href="https://diego.com/cursos/nextjs-graphql/" target="_blank">
+    <img alt="Curso de Next.js con GraphQL" src="https://static.diego.com/media/achievements/piezas-nextjs-graphql_badge-cbeed361-b95b-439e-a48b-ce024f85384e.png" width="60" />
   </a>
 </p>
 <h1 align="center">
 Projecto del Curso de Next.js con GraphQL
 </h1>
 
-> 👉 TIP: Utiliza la etiqueta git correcta con `git checkout -b NOMBRE_DE_MI_BRANCH NOMBRE_ETIQUETA` para empezar desde el punto que deseas. En [Tags (Etiquetas)](https://github.com/jonalvarezz/platzi-graphql-fullstack/tags) puedes encontrar todas las etiquetas. La descripción de las etiquetas contiene el nombre de la clase a la que corresponde. 
+> 👉 TIP: Utiliza la etiqueta git correcta con `git checkout -b NOMBRE_DE_MI_BRANCH NOMBRE_ETIQUETA` para empezar desde el punto que deseas. En [Tags (Etiquetas)](https://github.com/jonalvarezz/diego-graphql-fullstack/tags) puedes encontrar todas las etiquetas. La descripción de las etiquetas contiene el nombre de la clase a la que corresponde. 
 
 
 ### 🤖 Guía Rápida
@@ -17,8 +17,6 @@ Projecto del Curso de Next.js con GraphQL
     En caso que no lo hayas hecho ya: 
 
     ```sh
-    git clone git@github.com:jonalvarezz/platzi-graphql-fullstack.git
-    cd platzi-graphql-fullstack
     ```
     
 1.  **Instala dependencias.**

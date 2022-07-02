@@ -38,8 +38,8 @@ const Footer = () => (
           <Grid.Column width={7}>
             <Header as="h4">Hecho para</Header>
             <p>
-              <a href="https://platzi.com/">Platzi y su curso de Next.JS</a> de
-              Platzi dictado por{' '}
+              <a href="https://diego.com/">diego y su curso de Next.JS</a> de
+              diego dictado por{' '}
               <a href="https://twitter.com/jonalvarezz">@jonalvarezz</a>
             </p>
             <List horizontal style={{ display: 'flex' }}>
@@ -52,7 +52,7 @@ const Footer = () => (
                 icon="github"
                 style={{ display: 'flex' }}
                 content={
-                  <a href="https://github.com/jonalvarezz/platzi-nextjs">
+                  <a href="https://github.com/jonalvarezz/diego-nextjs">
                     GitHub
                   </a>
                 }

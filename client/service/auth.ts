@@ -23,8 +23,8 @@ const TOKEN_KEY = '_token_'
  * Alternativamente, se podría guardar el token en un Service Worker.
  *
  * Si quieres conocer más sobre los riesgos, e implicaciones te invito a ver:
- * - https://platzi.com/cursos/nextjs-owasp/
- * - https://platzi.com/cursos/nextjs-auth/
+ * - https://diego.com/cursos/nextjs-owasp/
+ * - https://diego.com/cursos/nextjs-auth/
  */
 
 export function useLogin({ onDone }: { onDone: () => void }) {

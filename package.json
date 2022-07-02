@@ -1,8 +1,8 @@
 {
   "private": "true",
-  "name": "platzi-graphql-fullstack",
+  "name": "graphql-fullstack",
   "version": "0.1.0",
-  "description": "Saga de GraphQL Fullstack de Platzi",
+  "description": "Saga de GraphQL Fullstack",
   "engines": {
     "node": "14.18"
   },
@@ -14,7 +14,7 @@
   "scripts": {
     "build": "yarn workspaces run build"
   },
-  "author": "@jonalvarezz",
+  "author": "@dperea10",
   "license": "MIT",
   "prettier": {
     "trailingComma": "es5",

@@ -9,11 +9,11 @@ function About() {
       <p>
         Este es un proyecto creado en el{' '}
         <a
-          href="https://platzi.com/cursos/graphql-next/"
+          href="https://diego.com/cursos/graphql-next/"
           target="_blank"
           rel="noreferrer"
         >
-          Curso de GraphQL con Next.js de Platzi
+          Curso de GraphQL con Next.js de diego
         </a>{' '}
         por{' '}
         <a
@@ -57,7 +57,7 @@ const documentationList = [
     meta: 'Proyecto',
     description:
       '¿Tienes dudas sobre este proyecto? Aquí encuentras la documentación para configurar todo. Aségurate de leerlo.',
-    link: 'https://github.com/jonalvarezz/platzi-graphql-fullstack',
+    link: 'https://github.com/jonalvarezz/diego-graphql-fullstack',
   },
   {
     title: 'Documentación Next.js',
@@ -78,7 +78,7 @@ const documentationList = [
     meta: 'Proyecto',
     description:
       'Revisa el curso en donde creamos todo el backend y la API para este proyecto.',
-    link: 'https://platzi.com/cursos/graphql-nodejs/',
+    link: 'https://diego.com/cursos/graphql-nodejs/',
   },
 ]
 
